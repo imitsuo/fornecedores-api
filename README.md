@@ -13,7 +13,7 @@ Esse desenvolvimento será realizado por etapas.
         /
         /.vscode
         /app
-        requirements.txt
+        /requirements.txt
 
         Utilizar python3.8 o arquivo requirements.txt deve conter os requisitos para api executar.
     
